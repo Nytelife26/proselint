@@ -21,7 +21,7 @@ typing_extensions = ">=4.9.0"
 
 [tool.poetry.dev-dependencies]
 bumpversion = ">=0.5.3"
-coverage = "^7.4.0"
+coverage = "^7.4.4"
 mock = ">=2.0.0"
 pydocstyle = "^6.1.1"
 pytest = ">=7.0.0"
